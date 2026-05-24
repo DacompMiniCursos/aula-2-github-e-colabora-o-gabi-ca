@@ -33,10 +33,8 @@ Depois, escolha a operação desejada no menu e informe os números.
 
 ---
 
-# 🐛 Issue pronta (copiar e colar)
+# 🐛 Issue: adicionar novas funcionalidades matemáticas à calculadora
 
-## Título: Adicionar novas funcionalidades matemáticas à calculadora
-## Descrição: 
 ### 📌 Contexto
 Atualmente, a calculadora implementa apenas operações básicas:
 - Soma
